@@ -63,7 +63,7 @@ checkwin = () => {
   }
 };
 showwinner = (p1) => {
-  msg_box.innerText = `${p1}Winner!`;
+  msg_box.innerText = `${p1} is Winner!`;
   msg_box.style.display = "block";
   gm.style.display = "none";
   boxdisable();
@@ -73,5 +73,6 @@ let boxdisable = () => {
     b.disabled = true;
   });
 };
+
 
 
