@@ -57,7 +57,7 @@ checkwin = () => {
     if (p1 != "" && p2 != "" && p3 != "") {
       if (p1 === p2 && p2 === p3) {
         showwinner(p1);
-        return;
+        return true;
       }
     }
   }
@@ -73,4 +73,5 @@ let boxdisable = () => {
     b.disabled = true;
   });
 };
+
 
