@@ -3,7 +3,6 @@
 Play a simple browser-based Tic-Tac-Toe game built with HTML, CSS and JavaScript.
 
 Live demo: https://pratik-code7.github.io/Tic-Tac-Toe/  
-Repo: https://github.com/Pratik-Code7/Tic-Tac-Toe
 
 ---
 
